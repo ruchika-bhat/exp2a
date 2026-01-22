@@ -1,5 +1,27 @@
 AIM : STUDY OF LIST
 
+ALGORITHM :
+
+* Algorithm for 1st question -
+1.Start
+2.Create a list of 5 student names
+3.Display first and last student name
+4.Add a new student to the list
+5.Remove one student from the list
+6.Sort the list alphabetically
+7.Display the final list
+8.Stop
+
+* Algorithm for 2nd question -
+1.Start
+2.Create a list of student marks
+3.Display highest and lowest marks
+4.Calculate and display average marks
+5.Sort the marks in ascending order
+6.Display the sorted list
+7.Stop
+
+
 THEORY : 
 A list in Python is a collection data type used to store multiple items in a single variable. Lists are ordered, mutable, and can contain duplicate values as well as different data types.
 
